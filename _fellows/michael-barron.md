@@ -1,0 +1,13 @@
+---
+name: Michael Barron
+year: 2019
+avatar: /assets/images/2019/michael-barron.jpg
+order: 1
+---
+Creating an artistic piece that was both technically compelling and integral to the actual thematic goals was a constant source of brainstorming, recalibrating, and continuously collaborating. While we knew that the focus was largely around the social credit system (SCS), what that would mean from a technology standpoint, and as an art piece was not. To that end, it was us prototyping, seeing how it fit the themes, realizing the issues, and starting over. Collectively we explored generative images, generative text, reinforcement learning, and finally 3D procedural animation. Beyond the many, many technical challenges, the solution we ultimately arrived at was creating something that used AI in a way that actually mirrored SCS and still could be compelling from an artistic standpoint. 
+
+To give some context, each character is a representation of an archetype persona that is ultimately following the master/roach (system). This is expressed via both their character design, and from an ML perspective, how they literally learned to move and react in a physics based environment. Each character is trained on a subset of 3D movement data that is tuned to certain behaviors (running, fighting, dancing, etc). They then try to emulate a primary character that is perfect modeling a specific sequence of actions. Because of the nature of their training, and the physics of the environment, each behavior is continuously different and unique, and can never truly conform to the master/roach, but there’s always an explicit instruction to do so.
+
+In terms of actualization, I think what was probably the ‘whoa’ moment (and I’m sure Ben would agree) was seeing Ying’s artistic characters and models implemented in the 3D environments we had all designed. Having these ML models live in a 3D simulation with physics wasn’t entirely meaningful until it had a ‘face’. It also viscerally reinforced how important it is to have a team, creative or otherwise where everyone has a diverse background and perspective. 
+
+Creating art isn’t grounded with an explicit template. It really needs an openness and level of exploration that just wouldn’t have happened if we were working in isolation. Or maybe it would have. But, it certainly wouldn’t have been satisfying. For me, working with Ben and Ying was as important as the project’s result. I’m proud of what we accomplished, but more so that everyone was so willing to engage, collaborate, and genuinely embrace each other's ideas and perspectives. 

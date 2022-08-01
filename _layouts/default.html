@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% if jekyll.environment == "production" %} {% include analytics.html %} {%
+    endif %}
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+    {% include styles.html %}
+    <!--  -->
+    {% seo title=false %}
+  </head>
+  <body>
+    {% include header.html %} {{ content }} {% include footer.html %}
+  </body>
+</html>
