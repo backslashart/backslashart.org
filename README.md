@@ -26,14 +26,28 @@ Backslash Art website.
 
 5. Netlify should see your commit and rebuild and publish your changes.
 
+   This typically takes 1 to 5 minutes.
+
    See your changes at https://backslashart.netlify.app/
 
    You can also work in a branch if you want to preview your changes without publishing to the main site.
 
-# Build and Run Locally
+
+
+# Build and Run Locally or on Codespace
 
 This website is built with Jekyll.
 
 ```bash
+bundle install
 bundle exec jekyll serve
 ```
+
+If you are running locally, open 127.0.0.1:4000 in a new browser tab.
+
+If you are running in the codespace, a prompt should appear to open a tab to the server.
+
+Jekyll will watch your content pages for changes and rebuild automatically. The browser is not reloaded automatically, so you need to manually reload to see your changes.
+
+
+
