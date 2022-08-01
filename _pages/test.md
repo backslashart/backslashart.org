@@ -4,6 +4,6 @@ description: This is just a test page, for testing!
 permalink: /test/
 ---
 
-# Test
+## Test
 
 This is just a test page, for testing!

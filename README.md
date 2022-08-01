@@ -8,7 +8,8 @@ Backslash Art website.
 - Update to Ruby 3.1.2
 - Moved content pages to `_pages`
 - Fixed 404 page
-- Tested Netlify Deploy
+- Tested Netlify deploy
+- Tested making edits with Github Codespaces
 
 # Making Edits
 
@@ -26,10 +27,8 @@ Backslash Art website.
 5. Netlify should see your commit and rebuild and publish your changes.
 
    See your changes at https://backslashart.netlify.app/
-   
+
    You can also work in a branch if you want to preview your changes without publishing to the main site.
-
-
 
 # Build and Run Locally
 
