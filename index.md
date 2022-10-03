@@ -26,7 +26,7 @@ description: Pronounced “backslash art”, \Art supports bleeding edge technol
 {% assign ip = ip | plus: 1 %}
 {% if ip == 1 %}
 {% endif %}
-\Art {{ award.year }} with {{ authors }} coming soon{% if a == 1 %}er{% endif %}!
+\Art {{ award.year }} with {{ authors }} coming soon{% if a >= 1 %}er{% endif %}!
 {% endif %}
 
 {% if c == 0 %}
