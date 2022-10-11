@@ -22,6 +22,7 @@ https://preview--backslashart.netlify.app/
 # Making edits
 
 <details><summary>Using Github (Recommended)</summary>
+
 1. Open [the repo](https://github.com/jbakse/backslashart.org) on github.
 2. Switch to the preview branch.
 3. Use the Github editor to edit content on a page. Commit edit with pithy commit message.
@@ -71,7 +72,3 @@ If you are running locally, open 127.0.0.1:4000 in a new browser tab.
 If you are running in the codespace, a prompt should appear to open a tab to the server.
 
 Jekyll will watch your content pages for changes and rebuild automatically. The browser is not reloaded automatically, so you need to manually reload to see your changes.
-
-
-touch
-
