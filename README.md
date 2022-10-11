@@ -58,4 +58,5 @@ If you are running in the codespace, a prompt should appear to open a tab to the
 Jekyll will watch your content pages for changes and rebuild automatically. The browser is not reloaded automatically, so you need to manually reload to see your changes.
 
 
+touch
 
