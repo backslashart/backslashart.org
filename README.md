@@ -22,6 +22,7 @@ https://preview--backslashart.netlify.app/
 # Making edits
 
 <details><summary>Using Github (Recommended)</summary>
+
 1. Open [the repo](https://github.com/jbakse/backslashart.org) on github.
 2. Switch to the preview branch.
 3. Use the Github editor to edit content on a page. Commit edit with pithy commit message.
