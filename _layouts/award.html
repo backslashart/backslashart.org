@@ -13,11 +13,23 @@
     {% seo title=false %}
   </head>
   <body>
-    {% include header.html %} {% assign artist = site.artists | where:
-    "year",page.year | first %} {% assign fellows = site.fellows | where:
-    "year",page.year | sort:"order" %} {% assign authors = artist.name | append:
-    ", " | append: fellows[0].name | append: ", and " | append: fellows[1].name
-    %} {% if page.is-complete %}
+    {% include header.html %}
+    <!-- prettier-ignore -->
+    {% assign artist = site.artists | where: "year",page.year | first %}
+    <!-- prettier-ignore -->
+    {% assign fellows = site.fellows | where: "year",page.year | sort:"order" %}
+    <!-- prettier-ignore -->
+    {% assign authors = artist.name %}
+
+    {% if fellows[0].name %}
+    {% assign authors = authors | append:" and " | append: fellows[0].name %}
+    {% endif %}
+
+    {% if fellows[1].name %}
+    {% assign authors = authors | append:" and " | append: fellows[1].name %}
+    {% endif %}
+    
+    {% if page.is-complete %}
 
     <h2>&gt; {{ page.art-title | upcase }} \ART {{ page.year }}</h2>
     <p>{{ authors }}</p>
