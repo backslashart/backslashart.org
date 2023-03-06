@@ -8,8 +8,6 @@ https://backslashart.netlify.app/
 Preview:
 https://preview--backslashart.netlify.app/
 
-
-
 # Changes from previous repo
 
 - Update to Jekyll 4.2.2
@@ -41,9 +39,13 @@ https://preview--backslashart.netlify.app/
 
    A good place to make some test edits is `_pages/test.md`
 
-4. Commit your edits
+4. Run Jekyl locally to preview your edits
+   `bundle install`
+   `bundle exec jekyll serve`
 
-5. Netlify should deploy your changes.
+5. Commit your edits
+
+6. Netlify should deploy your changes.
 
    This typically takes 1 to 5 minutes.
 
@@ -56,7 +58,6 @@ https://preview--backslashart.netlify.app/
 # Deploying with Netlify
 
 This site is deplyed with Netlify. When new commits are added to the `main` branch, netlify automatically pulls the changes, rebuilds the site with Jekyll, and publishes at https://backslashart.netlify.app/
-
 
 # Build and run locally or on Codespace
 
