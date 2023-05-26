@@ -55,7 +55,7 @@ Now in the works for 2023, \Art will award a fellowship to a visiting artist to 
 
 From 2016 to 2022, \Art awarded a major grant each year to a practicing NYC-based artist and one or two Cornell Tech graduates to collaborate full-time on a significant work of art that used bleeding edge digital technology to provoke novel opportunities for their work.
 
-Check out past \Art awards ({% for awrd in awards %}{% if awrd.is-complete %}{% if not-first-awrd %}, {% endif %}[{{ awrd.year }}]({{ awrd.url }}){% assign not-first-awrd = "true" %}{% endif %}{% endfor %}).
+Check out past \Art Awards: {% for awrd in awards %}{% if awrd.is-complete %}{% if not-first-awrd %}, {% endif %}[{{ awrd.year }}]({{ awrd.url }}){% assign not-first-awrd = "true" %}{% endif %}{% endfor %}.
 {% endif %}
 
 {% assign a = a | plus: 1 %}
