@@ -9,7 +9,7 @@ permalink: /call/
 
 \Art lives at Cornell Tech, a digital-age, technology-forward graduate campus of Cornell University in New York City. \Art collides students, faculty, and artists, both on and off campus, providing grants and support for art works, tools and activities that use the latest emerging digital technologies.
 
-**\Art is currently accepting artist proposals for the 2023 \Art Fellowship.**
+\Art is currently accepting artist proposals for the **2023 \Art Fellowship**.
 
 Cornell University embraces diversity and seeks candidates who will contribute to a climate that supports students, faculty and staff of all identities and backgrounds. We strongly encourage individuals from underrepresented and/or marginalized identities to apply. Our inclusive community of scholars, students and staff impart an uncommon sense of larger purpose and contribute creative ideas to further the university's mission of teaching, discovery and engagement.
 
