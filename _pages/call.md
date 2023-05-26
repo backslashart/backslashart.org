@@ -17,9 +17,9 @@ Cornell University embraces diversity and seeks candidates who will contribute t
 
 As recipient of the \Art Fellowship, the artist is awarded:
 
-- **Appointment**. The artist receives a one-year Visiting Artist appointment at Cornell Tech, beginning September 2023 with the start of the 2023–24 academic year.
+  - **Appointment**. The artist receives a one-year Visiting Artist appointment at Cornell Tech, beginning September 2023 with the start of the 2023–24 academic year.
  
-- **Honorarium**. The artist receives a $20,000 stipend in recognition of their commitment to pursue a new collaborative work engaging contemporary technology.
+  - **Honorarium**. The artist receives a $20,000 stipend in recognition of their commitment to pursue a new collaborative work engaging contemporary technology.
 
 - **Travel support**. The artist receives up to $20,000 support to visit Cornell Tech in New York City, and is anticipated to spend no less than a month on campus over the course of the year. The artist can book a room at the Graduate Hotel on Cornell Tech’s campus or make other arrangements.
 
