@@ -3,7 +3,7 @@ title: \Art Fellowship Call for Proposals
 description: \Art awards a fellowship each year to a visiting artist to collaborate with Cornell Tech faculty and students on a significant work of art that engages bleeding edge digital research and technology.
 permalink: /call/
 ---
-##> \ART FELLOWSHIP AT CORNELL TECH -- CALL FOR PROPOSALS
+## > \ART FELLOWSHIP AT CORNELL TECH -- CALL FOR PROPOSALS
 
 \Art, pronounced “backslash art”, awards a fellowship each year to a visiting artist to collaborate with Cornell Tech faculty and students on a significant work of art that engages bleeding edge digital research and technology. The fellowship offers sustained teamwork with creative and innovative technologists, enabling deep exploration of new artistic forms, expressions and features, and is intended to provoke novel opportunities for the artist’s work.
 
