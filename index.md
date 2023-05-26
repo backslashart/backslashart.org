@@ -69,10 +69,6 @@ Check out past \Art Awards: {% for awrd in awards %}{% if awrd.is-complete %}{% 
 
 Backslash (\\), otherwise known as whack, hack, slosh, bash, backslant, and reversed virgule\-\-and not to be confused with forward slash (/)\-\-is known as an escape character in computer programming, indicating that the characters after the \ should be interpreted outside the normal mode of input and output to do something special.
 
-## > WHOIS \ART
-
-\Art is a mix of Cornell Tech & Cornell University faculty & staff and practitioners with technology and art expertise: Justin Bakse (Director), Greg Pass (Founder), Andrea Inselmann, Zachary Kaplan, J McLoughlin, Alap Parikh, Brandon Plaster, Noah Snavely, and Matthew Weinstein.
-
 <div id="about-CT" markdown="1">
 ## > ABOUT CORNELL TECH
 Cornell Tech is a new graduate campus of Cornell University located on Roosevelt Island in New York City. It brings together faculty, business leaders, tech entrepreneurs, and students in a catalytic environment to produce visionary results grounded in significant needs that will reinvent the way we live in the digital age. Read more about [Cornell Tech](https://tech.cornell.edu){:target="_blank"}.
