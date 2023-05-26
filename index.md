@@ -5,6 +5,8 @@ description: Pronounced “backslash art”, \Art supports bleeding edge technol
 
 ## > TOP
 
+\Art Fellowship 2023 is now in the works!
+
 {% assign a = 0 %}
 {% assign ip = 0 %}
 
@@ -40,18 +42,20 @@ description: Pronounced “backslash art”, \Art supports bleeding edge technol
 
 \Art, pronounced “backslash art”, supports bleeding edge technological interventions into artistic practice.
 
-\Art lives at [Cornell Tech](http://tech.cornell.edu/){:target="\_blank"}, a digital-age, technology-forward graduate campus of Cornell University in New York City. \Art collides students, faculty, and artists, both on and off campus, providing <a href="#award">awards</a> and <a href="#microgrants">grants</a> for art works, art tools, and art activities that engage the latest emerging digital technologies.
+\Art lives at [Cornell Tech](http://tech.cornell.edu/){:target="\_blank"}, a digital-age, technology-forward graduate campus of Cornell University in New York City. \Art collides students, faculty, and artists, both on and off campus, providing awards and grants for art works, art tools, and art activities that engage the latest emerging digital technologies.
 {% endif %}
 
 {% if c == 1 %}
 
-## > <a name="award"></a>ABOUT THE \ART AWARD
+## > <a name="award"></a>ABOUT THE \ART FELLOWSHIP
 
-\Art awards a major $100k grant each year to a practicing NYC-based artist and two Cornell Tech graduates to collaborate full-time on a significant work of art that uses bleeding edge digital technology to provoke novel opportunities for their work.
+Now in the works for 2023, \Art will award a fellowship to a visiting artist to collaborate with Cornell Tech faculty and students on a significant work of art that engages bleeding edge digital research and technology. The fellowship offers sustained teamwork with creative and innovative technologists, enabling deep exploration of new artistic forms, expressions and features, and is intended to provoke novel opportunities for the artist’s work. More details coming soon!
 
-For the artist, this award offers sustained access to significant engineering capability, enabling deep exploration of new forms, expressions, and features for their work. For the Cornell Tech graduates, the award is an opportunity to flex creatively after graduation, absorb a distinct mode of cultural practice, and take an uncommon path.
+## > ABOUT THE \ART AWARD
 
-Check out past \Art awards ({% for awrd in awards %}{% if awrd.is-complete %}{% if not-first-awrd %}, {% endif %}[{{ awrd.year }}]({{ awrd.url }}){% assign not-first-awrd = "true" %}{% endif %}{% endfor %}); and read more about the [\Art award process](/award/).
+From 2016 to 2022, \Art awarded a major grant each year to a practicing NYC-based artist and one or two Cornell Tech graduates to collaborate full-time on a significant work of art that used bleeding edge digital technology to provoke novel opportunities for their work.
+
+Check out past \Art awards ({% for awrd in awards %}{% if awrd.is-complete %}{% if not-first-awrd %}, {% endif %}[{{ awrd.year }}]({{ awrd.url }}){% assign not-first-awrd = "true" %}{% endif %}{% endfor %}).
 {% endif %}
 
 {% assign a = a | plus: 1 %}
