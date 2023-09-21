@@ -19,7 +19,7 @@ Any current student at Cornell University may apply for a microgrant. Yes, thatâ
 
 ## > APPLICATIONS
 
-Anyone working a "backslash" project who needs support is encouraged to apply, regardless of your prior experience in art or technology.
+Anyone working on a "backslash" project who needs support is encouraged to apply, regardless of your prior experience in art or technology.
 
 \Art accepts student applications and awards Microgrants on a rolling basis throughout the school year.
 
