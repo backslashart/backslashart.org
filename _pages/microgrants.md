@@ -10,7 +10,7 @@ Are you an artist who pushes the limits of technology in your practice? Or an en
 
 Any current student at Cornell University may apply for a microgrant. Yes, that’s undergrad, masters, and PHD students across all campuses!
 
-## > [APPLY NOW](http://bit.ly/backslashart-microgrant-app) <
+## > [APPLY NOW](http://bit.ly/backslashart-microgrant-app)
 
 ## > APPLICATIONS
 
