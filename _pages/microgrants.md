@@ -9,12 +9,11 @@ permalink: /microgrants/
 Are you an artist who pushes the limits of technology in your practice? Or an engineer creatively hacking on the latest tech? Or otherwise working on something original and unconventional? If so, \Art is for you, and we’re offering $500 microgrants to help fund your projects!
 
 Any current student at Cornell University may apply for a microgrant. Yes, that’s undergrad, masters, and PHD students across all campuses!
-  
-<nobr> __________</nobr>
-<nobr>/\         \</nobr>
-<nobr>\/\  [APPLY](http://bit.ly/backslashart-microgrant-app)  \</nobr>
-<nobr> \/\_________\</nobr>
-<nobr>  \///////////</nobr>
+         __________  
+    ____/\         \____  
+    ____\/\  [APPLY](http://bit.ly/backslashart-microgrant-app)  \____  
+     ____\/\_________\____  
+      ____\///////////____    
 
 ## > APPLICATIONS
 
