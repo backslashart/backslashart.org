@@ -6,27 +6,27 @@ permalink: /microgrants/
 
 ## > ABOUT \ART MICROGRANTS
 
-\Art awards $500 Microgrants on a rolling basis to assist current Cornell University students working on projects that combine art and emerging technologies.
+Are you an artist who pushes the limits of technology in your practice? Or an engineer creatively hacking on the latest tech? Or otherwise working on something original and unconventional? If so, \Art is for you, and we’re offering $500 microgrants to help fund your projects!
+
+Any current student at Cornell University may apply for a microgrant. Yes, that’s undergrad, masters, and PHD students across all campuses!
+
+## >>> [APPLY NOW](http://bit.ly/backslashart-microgrant-app) <<<
 
 ## > APPLICATIONS
 
-\Art accepts student applications and awards Microgrants on a rolling basis throughout the school year. Any current student at Cornell University may apply for a Microgrant, including undergraduate, masters, and PhD students from both Cornell Tech and the Cornell University campus in Ithaca.
+Anyone working a "backslash" project who needs support is encouraged to apply, regardless of your prior experience in art or technology.
 
-Students interested in applying need not be experienced artists nor plan to pursue professional careers in art after graduation: \Art Microgrants are meant to broadly stimulate art & technology activity at Cornell University and foster adventurous and creative thinking at the intersection of art & technology.
+\Art accepts student applications and awards Microgrants on a rolling basis throughout the school year.
 
-Student applications include a written statement about the project, including how the project combines art making and emerging technology, any other background or reference material, and a personal statement about the student’s interest in art & technology. Students may apply multiple times for different projects. \Art reviews all applications and selects Microgrant recipients.
+Student applications include a written statement about the project, including its concept, material, and technologies -- and highlighting the projects originality and unconventionality. Students may apply multiple times for different projects. \Art reviews all applications and selects Microgrant recipients.
 
 ## > AWARDS
 
-Microgrant award recipients receive $500 to help cover materials or any other aspect of the art pursuit. The student is named a \Art Microgrant Awardee for the given school year. Note that this program is not a commission: the student owns the work, but we ask that the student provides pointers to their work so that we can share it on the \Art website, etc.
+Microgrant award recipients receive $500 to help cover materials and other expenses of the project. The student is named a \Art Microgrant Awardee for the given school year. Note that this program is not a commission: the student owns the work, but we ask that the student provides pointers to their work so that we can share it on the \Art website, etc.
 
 ## > SCHEDULE
 
 Microgrants are awarded on a rolling basis throughout the school year and students can expect to be notified within two weeks of their application submission.
-
-## > APPLY
-
-You can [apply here](https://docs.google.com/forms/d/e/1FAIpQLSdCHiYbpZ-QZteFe20uOmHGFgROuxi9cBal6LOEscfTbKT6IQ/viewform)!
 
 ## > MORE QUESTIONS
 
