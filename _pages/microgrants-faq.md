@@ -18,6 +18,12 @@ A: Definitely! However, note that as a Cornell student you have access to many f
 
 \*\*\*
 
+Q: How have students spent the microgrant?
+
+A: Here are a few examples: domain names and website hosting, hard drives, fonts, tablets, microcontrollers, power banks, distance sensors, VR sets and controllers, headphones, propane, tarps, . flash memory cards, glycerol wax, a blender, containers, electronic prototyping components, alligator clips, breadboards, variable power supplies, renting projectors & monitors, printing, frames, exhibition costs, entry fees, shipping, insurance, smartphone gimbals, motors, wood, plastic, paint, 3D printing filaments, Arduino boards, conductive tape, wires, monitors, animation software, renting photo equipment, speaker honoraria, custom notebooks, event consts, a Jetson Nano, stereo depth cameras, a runway carpet, fabric for the clothing, pins, small robots, CAD software, dancers' sessions, portable handheld recorders, microphones, foam board sheets for CNC routing, sandpaper, gesso, spray paint, glue, NFT deployment fees, metallic thread, reference books, museum costs, Madmapper software, tabletop tripods, portable audio recorders, Arduinos, wireless speakers, Japanese paper, omni-wheels, servos, a snow sled with handles, and body doubles.
+
+\*\*\*
+
 Q: I just got the good news! :) How do I get my money?
 
 A: You will receive the Microgrant shortly through your student bursar account.
