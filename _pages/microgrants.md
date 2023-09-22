@@ -13,9 +13,10 @@ Any current student at Cornell University may apply for a microgrant. Yes, thatâ
 {: .apply}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_\_\_\_\_\_\_\_\_\_  
 \_\_\_\_\_\_\_\_/\\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_\_\_\_\_\_\_\_\_\_\_\_  
-\_\_\_\_\_\_\_\_\\/\\&nbsp;&nbsp;[APPLY](http://bit.ly/backslashart-microgrant-app)&nbsp;&nbsp;\\\_\_\_\_\_\_\_\_\_\_\_  
+\_\_\_\_\_\_\_\_\\/\\&nbsp[\[APPLY\]](http://bit.ly/backslashart-microgrant-app)&nbsp;\\\_\_\_\_\_\_\_\_\_\_\_  
 \_\_\_\_\_\_\_\_\_\\/\\\_\_\_\_\_\_\_\_\_\\\_\_\_\_\_\_\_\_\_\_  
-\_\_\_\_\_\_\_\_\_\_\\///////////\_\_\_\_\_\_\_\_\_\_    
+\_\_\_\_\_\_\_\_\_\_\\///////////\_\_\_\_\_\_\_\_\_\_  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
 ## > APPLICATIONS
 
