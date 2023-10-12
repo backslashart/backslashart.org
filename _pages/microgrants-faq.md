@@ -38,8 +38,12 @@ A: You own the work! This program is not a commission, and we will ask your perm
 
 Q: What should I do when I’m done?
 
-A: Please provide pointers to your work with us so that we can share it on the \Art website.
-
+A: Upon completion of your project, we'd like to see: 
+1. At least one photo of your completed project (or whatever stage of completion your project ends up in)
+2. A one-liner describing your project
+3. Post the above information to the [\Discord](https://discord.gg/3XgUB58KEx) under #share-your-work
+4. Optional: Other project information (examples: publicly accessible link to Github code, Instagram posts, exhibition photos, etc.)
+[PLEASE SUBMIT THIS INFORMATION HERE](https://forms.gle/CKqz3t15JAWVwfu8A)
 \*\*\*
 
 Q: Can I apply for another \Art Microgrant?
