@@ -26,7 +26,7 @@ A: Here are a few examples: domain names and website hosting, hard drives, fonts
 
 Q: I just got the good news! :) How do I get my money?
 
-A: You will receive the Microgrant shortly through your student bursar account.
+A: You will receive the Microgrant in roughly 2 weeks as a deposit in your student bursar account.
 
 \*\*\*
 
