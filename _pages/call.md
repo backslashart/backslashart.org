@@ -9,7 +9,7 @@ permalink: /call/
 
 \Art takes its name from the \ (backslash) “escape” character in computer programming, used to indicate that whatever comes after the \ should be interpreted outside the normal mode of input and output to do something special. In this spirit, the \Art Fellowship provokes the artist to escape convention in their practice. 
 
-\Art lives at Cornell Tech, a digital-age graduate campus of Cornell University in New York City. \Art collides students, faculty, and artists, both on and off campus, providing grants and support for unconventional works that use the latest emerging digital technologies. Combined Cornell University’s founding principle -- “... any person ... any study” -- \Art creates an ideal ground for high-tech, transdisciplinary collaborations. 
+\Art lives at Cornell Tech, a digital-age graduate campus of Cornell University in New York City. \Art collides students, faculty, and artists, both on and off campus, providing grants and support for unconventional works that use the latest emerging digital technologies. Combined with Cornell University’s founding principle, “... any person ... any study”, \Art creates an ideal ground for high-tech, transdisciplinary collaborations. 
 
 \Art is currently accepting artist proposals for the **2024 \Art Fellowship**.
 
