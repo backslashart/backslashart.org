@@ -61,7 +61,7 @@ The following are active technology areas of Cornell Tech research that the arti
 
 - **Assist with documentation and communication**. The artist will collaborate with \Art staff to document the work for the \Art website and pursue other channels to share and discuss the work.
 
-- **Be backslash**. This fellowship should represent something new, nonlinear, unconventional, unexpected, questionable -- for the artist’s practice, for the field -- any or all these are symptoms of being *backslash*. 
+- **Be backslash**. This fellowship should represent something new, nonlinear, unconventional, unexpected, adventurous, intense, questionable -- for the artist’s practice, for the field -- any or all these are symptoms of being *backslash*. 
 
 ## > HOW TO APPLY
 
