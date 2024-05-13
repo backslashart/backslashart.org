@@ -5,7 +5,7 @@ permalink: /call/
 ---
 ## > \ART FELLOWSHIP AT CORNELL TECH \-\- CALL FOR PROPOSALS
 
-\Art, pronounced “backslash art”, awards an annual fellowship to a visiting artist to collaborate with Cornell Tech faculty and students on a significant work of art that engages bleeding-edge digital research and technology. The fellowship offers sustained teamwork with creative and innovative technologists, enabling deep exploration of new artistic forms, expressions and features, and is intended to provoke novel opportunities for the artist’s work.
+\Art, pronounced “backslash art”, awards an annual fellowship to a visiting artist to collaborate with Cornell Tech faculty and students on a significant work of art that engages bleeding-edge digital research and technology. The fellowship offers sustained teamwork with creative and innovative technologists, enabling deep exploration of new artistic forms, expressions and features, and is intended to inspire novel opportunities for the artist’s work.
 
 \Art takes its name from the \ (backslash) “escape” character in computer programming, used to indicate that whatever comes after the \ should be interpreted outside the normal mode of input and output to do something special. In this spirit, the \Art Fellowship provokes the artist to escape convention in their practice. 
 
