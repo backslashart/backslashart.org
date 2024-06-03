@@ -52,25 +52,17 @@
       {{ artist.content }}
     </div>
 
+    {% for fellow in fellows %}
     <div class="person">
-      <h2>&gt; {{ fellows[0].name | upcase }}</h2>
+      <h2>&gt; {{ fellow.name | upcase }}</h2>
       <img
         class="avatar"
-        style="background-image: url({{ fellows[0].avatar }});"
+        style="background-image: url({{ fellow.avatar }});"
       />
       <p>Fellow Statement</p>
-      {{ fellows[0].content }}
+      {{ fellow.content }}
     </div>
-
-    <div class="person">
-      <h2>&gt; {{ fellows[1].name | upcase }}</h2>
-      <img
-        class="avatar"
-        style="background-image: url({{ fellows[1].avatar }});"
-      />
-      <p>Fellow Statement</p>
-      {{ fellows[1].content }}
-    </div>
+    {% endfor %}
 
     {% if page.exhibitions %}
     <h2>&gt; EXHIBITIONS</h2>
