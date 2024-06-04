@@ -40,7 +40,7 @@ description: Pronounced “backslash art”, \Art supports bleeding edge technol
 \Art lives at [Cornell Tech](http://tech.cornell.edu/){:target="\_blank"}, a digital-age, technology-forward graduate campus of Cornell University in New York City. \Art collides students, faculty, and artists, both on and off campus, providing grants for works of art and technology that are uniquely unconventional.
 {% endif %}
 
-{% if c == 4 %}
+{% if a == 4 %}
 
 ## > <a name="award"></a>ABOUT THE \ART FELLOWSHIP
 
