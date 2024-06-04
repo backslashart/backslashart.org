@@ -3,10 +3,6 @@ title: \Art at Cornell Tech
 description: Pronounced “backslash art”, \Art supports bleeding edge technological interventions into artistic practice.
 ---
 
-## > TOP
-
-\Art Fellowship 2023 is now in the works!
-
 {% assign a = 0 %}
 {% assign ip = 0 %}
 
@@ -23,17 +19,17 @@ description: Pronounced “backslash art”, \Art supports bleeding edge technol
 {% if award.is-complete %}
 {% assign c = a | minus: ip %}
 
-## > [{{ award.art-title | upcase }} \ART AWARD {{ award.year }}]( {{ award.url }} )
+## > [{{ award.art-title | upcase }} \ART {{ award.year }}]( {{ award.url }} )
 
 {{ authors }}
 
 <p class="banner"><a href="{{ award.url }}"><img src="{{ award.banner }}"></a></p>
 {{ award.description }} <a href="{{ award.url }}">More about {{ award.art-title }}</a>.
+
 {% else %}
 {% assign ip = ip | plus: 1 %}
-{% if ip == 1 %}
-{% endif %}
-\Art Award {{ award.year }} with {{ authors }} coming soon{% if a >= 1 %}er{% endif %}!
+## > \ART {{ award.year }}
+\Art with {{ authors }} in progress!
 {% endif %}
 
 {% if c == 0 %}
