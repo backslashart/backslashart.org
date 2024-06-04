@@ -36,6 +36,17 @@
     ></iframe>
     <p>{{ page.art-label }}</p>
 
+    {% if page.video-2 %}
+    <iframe
+      class="artwork"
+      src="{{ page.video-2 }}"
+      frameborder="0"
+      allowfullscreen
+      style="height: calc( {{ page.art-height-2 }} / {{ page.art-width-2 }} * 100vw );"
+    ></iframe>
+    <p>{{ page.art-label-2 }}</p>
+    {% endif %}
+
     <div class="person">
       <h2>
         &gt;
