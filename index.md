@@ -12,7 +12,7 @@ description: Pronounced “backslash art”, \Art supports bleeding edge technol
 {% assign fellows = site.fellows | where: "year",award.year | sort:"name" %}
 {% if fellows.size == 2 %}
 {% assign authors = artist.name | append: ", " | append: fellows[0].name | append: ", and " | append: fellows[1].name %}
-{% elseif fellows.size == 1 %}
+{% elsif fellows.size == 1 %}
 {% assign authors = artist.name | append: " and " | append: fellows[0].name %}
 {% else %}
 {% assign authors = artist.name %}
